@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Prep2 World!");
+        Console.WriteLine("Welcome to the cinema, acording to your age, will reciebe a discount");
+        
     }
 }
